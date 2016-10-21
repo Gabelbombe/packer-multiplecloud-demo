@@ -7,3 +7,6 @@ packer_cache
 packer.log
 .DS_Store
 **/.DS_Store
+
+# Do not store builds
+builds/*/*
